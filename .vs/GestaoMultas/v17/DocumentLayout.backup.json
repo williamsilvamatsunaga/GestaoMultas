@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\proprietariopf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\aplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\aplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\proprietariopj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|c:\\users\\2023202060036\\desktop\\gestaomultas\\gestaomultas\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA9DD90-37E3-438E-AE61-992ABA3FD473}|GestaoMultas\\GestaoMultas.csproj|solutionrelative:gestaomultas\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Program.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Program.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Program.cs",
+              "RelativeToolTip": "GestaoMultas\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:25:11.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProprietarioPF.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\ProprietarioPF.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\ProprietarioPF.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\ProprietarioPF.cs",
+              "RelativeToolTip": "GestaoMultas\\ProprietarioPF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:12:35.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aplicacao.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Aplicacao.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Aplicacao.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Aplicacao.cs",
+              "RelativeToolTip": "GestaoMultas\\Aplicacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:29:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Proprietario.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Proprietario.cs",
+              "RelativeToolTip": "GestaoMultas\\Proprietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:32:16.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cnh.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Cnh.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Cnh.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Cnh.cs",
+              "RelativeToolTip": "GestaoMultas\\Cnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:39:36.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Veiculo.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Veiculo.cs",
+              "RelativeToolTip": "GestaoMultas\\Veiculo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:27:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vistoria.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Vistoria.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Vistoria.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Vistoria.cs",
+              "RelativeToolTip": "GestaoMultas\\Vistoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:25:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Cidade.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Cidade.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Cidade.cs",
+              "RelativeToolTip": "GestaoMultas\\Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:22:13.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Modelo.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Modelo.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Modelo.cs",
+              "RelativeToolTip": "GestaoMultas\\Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:13:42.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProprietarioPJ.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\ProprietarioPJ.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\ProprietarioPJ.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\ProprietarioPJ.cs",
+              "RelativeToolTip": "GestaoMultas\\ProprietarioPJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:12:56.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Multas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Multas.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Multas.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Multas.cs",
+              "RelativeToolTip": "GestaoMultas\\Multas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:30:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vistoriador.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Vistoriador.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Vistoriador.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Vistoriador.cs",
+              "RelativeToolTip": "GestaoMultas\\Vistoriador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:28:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Estado.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Estado.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Estado.cs",
+              "RelativeToolTip": "GestaoMultas\\Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:24:03.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Marca.cs",
+              "RelativeDocumentMoniker": "GestaoMultas\\Marca.cs",
+              "ToolTip": "C:\\Users\\2023202060036\\Desktop\\GestaoMultas\\GestaoMultas\\Marca.cs",
+              "RelativeToolTip": "GestaoMultas\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:25:03.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
